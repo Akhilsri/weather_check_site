@@ -9,7 +9,7 @@ const wrapper = document.querySelector(".wrapper"),
 
 let api;
 
-//PLEASE PUT YOUR API KEY HERE
+
 let apiKey = "b190a0605344cc4f3af08d0dd473dd25";
 
 inputField.addEventListener("keyup", (e) => {
